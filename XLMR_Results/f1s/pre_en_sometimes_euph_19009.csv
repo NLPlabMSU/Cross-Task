@@ -1,0 +1,2 @@
+,train_data,test_data,accuracy,precision,recall,f1,f1_macro,seed
+0,pretrained,en_sometimes_euph_1900,0.6210526315789474,0.6394557823129252,0.6308724832214765,0.6351351351351351,0.6204872755967646,9
