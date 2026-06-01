@@ -65,6 +65,7 @@ Stanford Politeness
 }
 
 Movie Sentiment
+
 @inproceedings{Pang+Lee:05a,
    author = {Pang, Bo and Lee, Lillian},
    title = {Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales},
