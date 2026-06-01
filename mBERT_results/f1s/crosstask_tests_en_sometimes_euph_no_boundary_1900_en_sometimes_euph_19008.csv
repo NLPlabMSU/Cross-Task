@@ -1,0 +1,3 @@
+,train_data,train_data_2,test_data,accuracy,precision,recall,f1,f1_macro,n_epochs_1,n_epochs_2,seed
+0,en_sometimes_euph_no_boundary_1900,na,en_sometimes_euph_no_boundary_1900,0.6701754385964912,0.6762589928057554,0.6573426573426573,0.6666666666666666,0.6701388888888888,16.0,,8
+1,en_sometimes_euph_no_boundary_1900,na,en_sometimes_euph_1900,0.656140350877193,0.6595744680851063,0.6503496503496503,0.6549295774647887,0.656136117403723,16.0,,8
