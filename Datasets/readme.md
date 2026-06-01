@@ -1,4 +1,5 @@
 Euphemisms
+
 @inproceedings{lee-etal-2024-meds,
     title = "{MED}s for {PET}s: Multilingual Euphemism Disambiguation for Potentially Euphemistic Terms",
     author = "Lee, Patrick and Chirino Trujillo, Alain and Cuevas Plancarte, Diana and Ojo, Olumide and Liu, Xinyi and Shode, Iyanuoluwa and Zhao, Yuan and Feldman, Anna and Peng, Jing",
@@ -31,6 +32,7 @@ Euphemisms
 
 
 Trofi
+
 @inproceedings{birke-sarkar-2007-active,
     title = "Active Learning for the Identification of Nonliteral Language",
     author = "Birke, Julia and Sarkar, Anoop",
@@ -41,6 +43,7 @@ Trofi
 }
 
 Magpie
+
 @inproceedings{haagsma-etal-2020-magpie,
     title = "{MAGPIE}: A Large Corpus of Potentially Idiomatic Expressions",
     author = "Haagsma, Hessel and Bos, Johan and Nissim, Malvina",
@@ -51,6 +54,7 @@ Magpie
 }
 
 Stanford Politeness
+
 @inproceedings{danescu-niculescu-mizil-etal-2013-computational,
     title = "A computational approach to politeness with application to social factors",
     author = "Danescu-Niculescu-Mizil, Cristian and Sudhof, Moritz and Jurafsky, Dan and Leskovec, Jure and Potts, Christopher",
@@ -70,6 +74,7 @@ Movie Sentiment
 }
 
 IDEM
+
 @inproceedings{prochnow-etal-2024-idem,
     title = "{IDEM}: The {ID}ioms with {EM}otions Dataset for Emotion Recognition",
     author = {Prochnow, Alexander and Bendler, Johannes E. and Lange, Caroline and Tzavellos, Foivos Ioannis and G{\"o}ritzer, Bas Marco and ten Thij, Marijn and Batista-Navarro, Riza},
@@ -80,6 +85,7 @@ IDEM
 }
 
 Books and Electronics
+
 @inproceedings{blitzer-etal-2007-biographies,
     title = "Biographies, {B}ollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification",
     author = "Blitzer, John and Dredze, Mark and Pereira, Fernando",
