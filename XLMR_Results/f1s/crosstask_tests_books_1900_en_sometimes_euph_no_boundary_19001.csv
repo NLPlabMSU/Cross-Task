@@ -1,0 +1,3 @@
+,train_data,train_data_2,test_data,accuracy,precision,recall,f1,f1_macro,n_epochs_1,n_epochs_2,seed
+0,books_1900,na,books_1900,1.0,1.0,1.0,1.0,1.0,8.0,,1
+1,books_1900,na,en_sometimes_euph_no_boundary_1900,0.6175438596491228,0.6551724137931034,0.6168831168831169,0.6354515050167224,0.6166187414382505,8.0,,1
